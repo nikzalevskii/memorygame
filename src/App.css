@@ -50,3 +50,18 @@ body {
     top: -5px;
     font-size: 24px;
 }
+
+@media screen and (max-width: 769px) {
+    .cards {
+        padding-bottom: 50px;
+        max-width: 400px;
+        grid-gap: 15px;
+    }
+}
+@media screen and (max-width: 426px) {
+    .cards {
+        padding-bottom: 30px;
+        max-width: 230px;
+        grid-gap: 10px;
+    }
+}
