@@ -2,7 +2,7 @@
 
 This is a memory game built using React, where players flip pairs of cards to find matches. The game keeps track of the number of clicks and time spent, offering a fun and engaging way to exercise memory. The game features dynamic card shuffling, timer functionality, and popup notifications upon completion.
 
-![image](https://github.com/user-attachments/assets/d0892e3e-4dfa-4cfb-8c92-e778329fbaf5)
+![image](https://github.com/user-attachments/assets/7e8eb1db-bfeb-4292-b109-0b7b69b79f73)
 
 
 ## Features
